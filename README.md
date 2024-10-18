@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Static Badge](https://img.shields.io/badge/Springboot-%236DB33F?logo=springboot&logoColor=white)
 <!--
 **jin9776/jin9776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
